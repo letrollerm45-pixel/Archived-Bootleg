@@ -1,0 +1,17 @@
+"Anomaly.BroadcastPulse"
+{
+    "channel"   "CHAN_STATIC"
+    "volume"    "0.70"
+    "pitch"     "95"
+    "soundlevel" "SNDLVL_70dB"
+    "wave"      "ambient/levels/citadel/portal_beam_shoot5.wav"
+}
+
+"Anomaly.WhisperLow"
+{
+    "channel"   "CHAN_VOICE"
+    "volume"    "0.35"
+    "pitch"     "60"
+    "soundlevel" "SNDLVL_55dB"
+    "wave"      "ambient/voices/citizen_beaten1.wav"
+}
